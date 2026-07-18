@@ -14,7 +14,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [ ] Product of Array Except Self
 - [ ] Valid Palindrome
 - [ ] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
+- [D] Longest Repeating Character Replacement
 - [/] Remove Duplicates from Sorted Array (in-place, two pointers)
 - [ ] 3Sum
 
