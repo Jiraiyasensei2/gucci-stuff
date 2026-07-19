@@ -11,7 +11,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [ ] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [D] Product of Array Except Self
 - [D] Valid Palindrome
 - [D] Longest Substring Without Repeating Characters
 - [Do] Longest Repeating Character Replacement
