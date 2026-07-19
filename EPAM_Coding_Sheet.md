@@ -9,7 +9,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [D] Valid Anagram
-- [ ] Group Anagrams
+- [D] Group Anagrams
 - [Do] Top K Frequent Elements
 - [D] Product of Array Except Self
 - [D] Valid Palindrome
