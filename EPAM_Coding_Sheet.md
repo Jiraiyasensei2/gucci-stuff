@@ -10,7 +10,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Top K Frequent Elements
+- [Do] Top K Frequent Elements
 - [D] Product of Array Except Self
 - [D] Valid Palindrome
 - [D] Longest Substring Without Repeating Characters
