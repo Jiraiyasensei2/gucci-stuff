@@ -12,10 +12,10 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
-- [ ] Valid Palindrome
-- [/] Longest Substring Without Repeating Characters
-- [D] Longest Repeating Character Replacement
-- [/] Remove Duplicates from Sorted Array (in-place, two pointers)
+- [D] Valid Palindrome
+- [D] Longest Substring Without Repeating Characters
+- [Do] Longest Repeating Character Replacement
+- [D] Remove Duplicates from Sorted Array (in-place, two pointers)
 - [ ] 3Sum
 
 ## Tier 2 — Trees & BSTs (frequently reported in EPAM rounds)
