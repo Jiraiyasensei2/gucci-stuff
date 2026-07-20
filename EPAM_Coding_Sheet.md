@@ -16,7 +16,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [D] Longest Substring Without Repeating Characters
 - [Do] Longest Repeating Character Replacement
 - [D] Remove Duplicates from Sorted Array (in-place, two pointers)
-- [ ] 3Sum
+- [D] 3Sum
 
 ## Tier 2 — Trees & BSTs (frequently reported in EPAM rounds)
 - [ ] Invert Binary Tree
