@@ -19,8 +19,8 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 - [✔] 3Sum
 
 ## Tier 2 — Trees & BSTs (frequently reported in EPAM rounds)
-- [ ] Invert Binary Tree
-- [ ] Maximum Depth of Binary Tree
+- [✔] Invert Binary Tree
+- [✔] Maximum Depth of Binary Tree
 - [ ] Same Tree
 - [ ] Validate Binary Search Tree
 - [ ] Insert into a Binary Search Tree
