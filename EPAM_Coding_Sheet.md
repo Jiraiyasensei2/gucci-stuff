@@ -5,7 +5,7 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 ---
 
 ## Tier 1 — Must be flawless (Arrays, Strings, Hashing)
-- [ ] Two Sum
+- [D] Two Sum
 - [Do] Best Time to Buy and Sell Stock
 - [D] Contains Duplicate
 - [D] Valid Anagram
