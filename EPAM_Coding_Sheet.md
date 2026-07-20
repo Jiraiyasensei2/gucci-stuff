@@ -5,18 +5,18 @@ Based on the actual JD: this role screens for **solid fundamentals in one langua
 ---
 
 ## Tier 1 — Must be flawless (Arrays, Strings, Hashing)
-- [&check] Two Sum
+- [✔] Two Sum
 - [Do] Best Time to Buy and Sell Stock
-- [D] Contains Duplicate
-- [D] Valid Anagram
-- [D] Group Anagrams
+- [✔] Contains Duplicate
+- [✔] Valid Anagram
+- [✔] Group Anagrams
 - [Do] Top K Frequent Elements
-- [D] Product of Array Except Self
-- [D] Valid Palindrome
-- [D] Longest Substring Without Repeating Characters
+- [✔] Product of Array Except Self
+- [✔] Valid Palindrome
+- [✔] Longest Substring Without Repeating Characters
 - [Do] Longest Repeating Character Replacement
-- [D] Remove Duplicates from Sorted Array (in-place, two pointers)
-- [D] 3Sum
+- [✔] Remove Duplicates from Sorted Array (in-place, two pointers)
+- [✔] 3Sum
 
 ## Tier 2 — Trees & BSTs (frequently reported in EPAM rounds)
 - [ ] Invert Binary Tree
