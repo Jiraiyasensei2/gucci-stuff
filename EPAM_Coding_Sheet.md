@@ -273,7 +273,7 @@ Also worth doing given the JD's OOP requirement: implement 2–3 of the classic 
 
 ## Monotonic Stack (1)
 
-- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) — Hard
+- [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) — Hard
 
 ## Queue (1)
 
