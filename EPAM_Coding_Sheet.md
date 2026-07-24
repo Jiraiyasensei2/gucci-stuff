@@ -277,7 +277,7 @@ Also worth doing given the JD's OOP requirement: implement 2–3 of the classic 
 
 ## Queue (1)
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) — Easy
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) — Easy
 
 ## Simulation (1)
 
@@ -285,7 +285,7 @@ Also worth doing given the JD's OOP requirement: implement 2–3 of the classic 
 
 ## Sliding Window (1)
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) — Medium
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) — Medium
 
 ## Tree (1)
 
