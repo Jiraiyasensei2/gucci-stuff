@@ -289,12 +289,12 @@ Also worth doing given the JD's OOP requirement: implement 2–3 of the classic 
 
 ## Tree (1)
 
-- [ ] [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) — Medium
+- [x] [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) — Medium
 
 ## Trie (1)
 
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) — Easy
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) — Easy
 
 ## Union-Find (1)
 
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) — Medium
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) — Medium
