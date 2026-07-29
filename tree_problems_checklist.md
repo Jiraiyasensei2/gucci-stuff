@@ -21,7 +21,7 @@ Aggregated from LeetCode company-wise problem lists (all 470 company folders). R
 - [x] **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)** — MEDIUM | 18 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
 - [x] **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)** — EASY | 17 companies | freq 97.8 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - [ ] **[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)** — MEDIUM | 16 companies | freq 100.0 | Stack, Tree, Depth-First Search, Design, Queue, Iterator
-- [ ] **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [x] **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
 - [ ] **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Tree
 - [ ] **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)** — MEDIUM | 14 companies | freq 89.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - [ ] **[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)** — HARD | 12 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
