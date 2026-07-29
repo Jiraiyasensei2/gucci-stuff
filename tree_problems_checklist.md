@@ -16,9 +16,9 @@ Aggregated from LeetCode company-wise problem lists (all 470 company folders). R
 
 - [ ] **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)** — HARD | 23 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
 - [ ] **[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)** — HARD | 21 companies | freq 97.8 | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
-- [ ] **[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)** — MEDIUM | 20 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
+- [x] **[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)** — MEDIUM | 20 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
 - [ ] **[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)** — EASY | 19 companies | freq 89.5 | Tree, Depth-First Search, Binary Tree
-- [ ] **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)** — MEDIUM | 18 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
+- [x] **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)** — MEDIUM | 18 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
 - [ ] **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)** — EASY | 17 companies | freq 97.8 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - [ ] **[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)** — MEDIUM | 16 companies | freq 100.0 | Stack, Tree, Depth-First Search, Design, Queue, Iterator
 - [ ] **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
