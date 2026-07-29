@@ -1,0 +1,331 @@
+# Tree Problems — Frequency-Wise Tiers (Checklist)
+
+Aggregated from LeetCode company-wise problem lists (all 470 company folders). Ranked by number of companies asking each problem, with LeetCode's frequency score as tiebreak. Check off problems as you solve them.
+
+## Summary
+
+| Tier | Criteria | # Problems |
+|---|---|---|
+| Tier 1 - Must Do | Asked by 12+ companies | 14 |
+| Tier 2 - High Priority | Asked by 8-11 companies | 19 |
+| Tier 3 - Medium Priority | Asked by 5-7 companies | 38 |
+| Tier 4 - Low-Medium Priority | Asked by 3-4 companies | 75 |
+| Tier 5 - Occasional | Asked by 1-2 companies | 157 |
+
+## Tier 1 - Must Do (Asked by 12+ companies)
+
+- [ ] **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)** — HARD | 23 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
+- [ ] **[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)** — HARD | 21 companies | freq 97.8 | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
+- [ ] **[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)** — MEDIUM | 20 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)** — EASY | 19 companies | freq 89.5 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)** — MEDIUM | 18 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)** — EASY | 17 companies | freq 97.8 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)** — MEDIUM | 16 companies | freq 100.0 | Stack, Tree, Depth-First Search, Design, Queue, Iterator
+- [ ] **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)** — MEDIUM | 14 companies | freq 89.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)** — HARD | 12 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
+- [ ] **[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)** — HARD | 12 companies | freq 97.3 | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set
+- [ ] **[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)** — HARD | 12 companies | freq 95.9 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree
+- [ ] **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)** — EASY | 12 companies | freq 77.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+
+## Tier 2 - High Priority (Asked by 8-11 companies)
+
+- [ ] **[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)** — MEDIUM | 11 companies | freq 100.0 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)** — MEDIUM | 11 companies | freq 89.5 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[House Robber III](https://leetcode.com/problems/house-robber-iii)** — MEDIUM | 11 companies | freq 88.2 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
+- [ ] **[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree)** — MEDIUM | 9 companies | freq 100.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)** — EASY | 9 companies | freq 92.9 | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream
+- [ ] **[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)** — MEDIUM | 9 companies | freq 82.7 | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree
+- [ ] **[Same Tree](https://leetcode.com/problems/same-tree)** — EASY | 9 companies | freq 52.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)** — MEDIUM | 8 companies | freq 100.0 | Array, Union-Find, Graph Theory, Minimum Spanning Tree
+- [ ] **[Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree)** — HARD | 8 companies | freq 100.0 | Array, Tree, Graph Theory, Topological Sort
+- [ ] **[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)** — MEDIUM | 8 companies | freq 100.0 | Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
+- [ ] **[Block Placement Queries](https://leetcode.com/problems/block-placement-queries)** — HARD | 8 companies | freq 92.0 | Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set
+- [ ] **[Path Sum III](https://leetcode.com/problems/path-sum-iii)** — MEDIUM | 8 companies | freq 85.4 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)** — MEDIUM | 8 companies | freq 82.4 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[My Calendar I](https://leetcode.com/problems/my-calendar-i)** — MEDIUM | 8 companies | freq 76.5 | Array, Binary Search, Design, Segment Tree, Ordered Set
+- [ ] **[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)** — EASY | 8 companies | freq 69.3 | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
+- [ ] **[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)** — MEDIUM | 8 companies | freq 61.2 | Array, Hash Table, Divide and Conquer, Tree, Binary Tree
+- [ ] **[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)** — EASY | 8 companies | freq 57.5 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Path Sum II](https://leetcode.com/problems/path-sum-ii)** — MEDIUM | 8 companies | freq 56.8 | Backtracking, Tree, Depth-First Search, Binary Tree
+- [ ] **[Path Sum](https://leetcode.com/problems/path-sum)** — EASY | 8 companies | freq 52.1 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+
+## Tier 3 - Medium Priority (Asked by 5-7 companies)
+
+- [ ] **[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)** — MEDIUM | 7 companies | freq 97.3 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)** — MEDIUM | 7 companies | freq 82.7 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree
+- [ ] **[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)** — MEDIUM | 7 companies | freq 74.4 | Linked List, Stack, Tree, Depth-First Search, Binary Tree
+- [ ] **[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)** — MEDIUM | 7 companies | freq 62.6 | Hash Table, Two Pointers, Tree, Binary Tree
+- [ ] **[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)** — MEDIUM | 7 companies | freq 59.9 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)** — MEDIUM | 7 companies | freq 55.5 | Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator
+- [ ] **[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)** — MEDIUM | 7 companies | freq 54.4 | Tree, Binary Search Tree, Binary Tree
+- [ ] **[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)** — MEDIUM | 7 companies | freq 52.1 | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)** — EASY | 7 companies | freq 49.5 | Stack, Tree, Depth-First Search, Binary Tree
+- [ ] **[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)** — MEDIUM | 6 companies | freq 100.0 | Array, Hash Table, Tree, Binary Tree
+- [ ] **[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)** — MEDIUM | 6 companies | freq 100.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)** — EASY | 6 companies | freq 93.2 | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function
+- [ ] **[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)** — EASY | 6 companies | freq 91.1 | Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)** — EASY | 6 companies | freq 86.8 | String, Backtracking, Tree, Depth-First Search, Binary Tree
+- [ ] **[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)** — MEDIUM | 6 companies | freq 82.5 | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree
+- [ ] **[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree)** — MEDIUM | 6 companies | freq 77.4 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Reverse Pairs](https://leetcode.com/problems/reverse-pairs)** — HARD | 6 companies | freq 69.4 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)** — EASY | 6 companies | freq 65.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)** — MEDIUM | 6 companies | freq 58.8 | Hash Table, Tree, Depth-First Search, Binary Tree
+- [ ] **[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)** — MEDIUM | 6 companies | freq 56.9 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)** — MEDIUM | 6 companies | freq 55.6 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)** — MEDIUM | 6 companies | freq 48.9 | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree)** — MEDIUM | 5 companies | freq 93.3 | Array, Tree, Depth-First Search, Breadth-First Search, Graph Theory
+- [ ] **[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)** — MEDIUM | 5 companies | freq 83.6 | String, Tree, Depth-First Search, Binary Tree
+- [ ] **[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)** — MEDIUM | 5 companies | freq 72.0 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Employee Importance](https://leetcode.com/problems/employee-importance)** — MEDIUM | 5 companies | freq 69.3 | Array, Hash Table, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)** — EASY | 5 companies | freq 65.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)** — EASY | 5 companies | freq 64.1 | Binary Search, Bit Manipulation, Tree, Binary Tree
+- [ ] **[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)** — HARD | 5 companies | freq 61.9 | Dynamic Programming, Tree, Depth-First Search, Graph Theory
+- [ ] **[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)** — MEDIUM | 5 companies | freq 61.2 | Array, Hash Table, Divide and Conquer, Tree, Binary Tree
+- [ ] **[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)** — EASY | 5 companies | freq 39.9 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)** — HARD | 5 companies | freq 39.0 | String, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)** — MEDIUM | 5 companies | freq 39.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Tree Diameter](https://leetcode.com/problems/tree-diameter)** — MEDIUM | 5 companies | freq 38.8 | Tree, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+- [ ] **[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)** — MEDIUM | 5 companies | freq 37.7 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)** — EASY | 5 companies | freq 35.9 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)** — MEDIUM | 5 companies | freq 25.3 | Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree
+- [ ] **[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)** — MEDIUM | 5 companies | freq 24.9 | Tree, Breadth-First Search, Binary Tree
+
+## Tier 4 - Low-Medium Priority (Asked by 3-4 companies)
+
+- [ ] **[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)** — MEDIUM | 4 companies | freq 100.0 | Array, Stack, Tree, Binary Search Tree, Recursion, Monotonic Stack, Binary Tree
+- [ ] **[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree)** — MEDIUM | 4 companies | freq 100.0 | Linked List, Tree, Depth-First Search, Binary Tree
+- [ ] **[Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree)** — HARD | 4 companies | freq 100.0 | Hash Table, Bit Manipulation, Tree, Depth-First Search
+- [ ] **[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)** — MEDIUM | 4 companies | freq 100.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)** — MEDIUM | 4 companies | freq 100.0 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Range Module](https://leetcode.com/problems/range-module)** — HARD | 4 companies | freq 100.0 | Design, Segment Tree, Ordered Set
+- [ ] **[Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters)** — HARD | 4 companies | freq 97.8 | Array, String, Tree, Depth-First Search, Graph Theory, Topological Sort
+- [ ] **[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree)** — MEDIUM | 4 companies | freq 85.2 | Array, Divide and Conquer, Tree, Matrix
+- [ ] **[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)** — EASY | 4 companies | freq 82.7 | Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)** — EASY | 4 companies | freq 72.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)** — MEDIUM | 4 companies | freq 72.0 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)** — MEDIUM | 4 companies | freq 65.2 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals)** — HARD | 4 companies | freq 60.0 | Design, Segment Tree, Ordered Set
+- [ ] **[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees)** — MEDIUM | 4 companies | freq 59.9 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)** — MEDIUM | 4 companies | freq 51.5 | Tree, Binary Search Tree, Binary Tree
+- [ ] **[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum)** — HARD | 4 companies | freq 51.4 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)** — HARD | 4 companies | freq 46.4 | String, Tree, Depth-First Search, Binary Tree
+- [ ] **[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)** — MEDIUM | 4 companies | freq 39.9 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree)** — MEDIUM | 4 companies | freq 39.0 | Tree, Breadth-First Search, Sorting, Binary Tree
+- [ ] **[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)** — MEDIUM | 4 companies | freq 36.9 | Dynamic Programming, Tree, Recursion, Memoization, Binary Tree
+- [ ] **[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)** — MEDIUM | 4 companies | freq 35.0 | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree
+- [ ] **[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)** — EASY | 4 companies | freq 34.2 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)** — MEDIUM | 4 companies | freq 26.5 | Array, Hash Table, Divide and Conquer, Tree, Binary Tree
+- [ ] **[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values)** — HARD | 3 companies | freq 100.0 | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting
+- [ ] **[Operations on Tree](https://leetcode.com/problems/operations-on-tree)** — MEDIUM | 3 companies | freq 100.0 | Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design
+- [ ] **[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level)** — MEDIUM | 3 companies | freq 100.0 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)** — EASY | 3 companies | freq 96.0 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees)** — HARD | 3 companies | freq 95.2 | Tree, Depth-First Search, Breadth-First Search, Graph Theory
+- [ ] **[Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)** — HARD | 3 companies | freq 94.9 | Array, Binary Search, Stack, Binary Indexed Tree, Segment Tree, Heap (Priority Queue), Monotonic Stack
+- [ ] **[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)** — EASY | 3 companies | freq 89.5 | Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array)** — HARD | 3 companies | freq 85.7 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score)** — MEDIUM | 3 companies | freq 78.3 | Array, Tree, Depth-First Search, Binary Tree
+- [ ] **[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)** — MEDIUM | 3 companies | freq 74.6 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree)** — MEDIUM | 3 companies | freq 72.0 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)** — MEDIUM | 3 companies | freq 72.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)** — MEDIUM | 3 companies | freq 69.3 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)** — MEDIUM | 3 companies | freq 67.3 | Array, Binary Indexed Tree, Segment Tree, Sorting
+- [ ] **[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)** — MEDIUM | 3 companies | freq 65.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst)** — MEDIUM | 3 companies | freq 64.4 | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree
+- [ ] **[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)** — MEDIUM | 3 companies | freq 60.6 | Hash Table, Tree, Depth-First Search, Binary Tree
+- [ ] **[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii)** — HARD | 3 companies | freq 58.8 | Two Pointers, Stack, Tree, Depth-First Search, Binary Search Tree, Heap (Priority Queue), Binary Tree
+- [ ] **[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)** — MEDIUM | 3 companies | freq 52.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)** — MEDIUM | 3 companies | freq 47.5 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)** — EASY | 3 companies | freq 46.3 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome)** — HARD | 3 companies | freq 45.1 | Two Pointers, String, Greedy, Binary Indexed Tree
+- [ ] **[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter)** — MEDIUM | 3 companies | freq 45.1 | Tree, Breadth-First Search, Design, Binary Tree
+- [ ] **[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)** — MEDIUM | 3 companies | freq 43.7 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees)** — MEDIUM | 3 companies | freq 43.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Kill Process](https://leetcode.com/problems/kill-process)** — MEDIUM | 3 companies | freq 40.4 | Array, Hash Table, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)** — MEDIUM | 3 companies | freq 39.9 | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree
+- [ ] **[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)** — HARD | 3 companies | freq 36.1 | Dynamic Programming, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)** — HARD | 3 companies | freq 33.9 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)** — MEDIUM | 3 companies | freq 33.5 | Divide and Conquer, Greedy, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)** — MEDIUM | 3 companies | freq 32.5 | Array, Stack, Tree, Binary Search Tree, Monotonic Stack, Binary Tree
+- [ ] **[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)** — HARD | 3 companies | freq 32.2 | Union-Find, Graph Theory, Sorting, Minimum Spanning Tree, Strongly Connected Component
+- [ ] **[My Calendar II](https://leetcode.com/problems/my-calendar-ii)** — MEDIUM | 3 companies | freq 29.1 | Array, Binary Search, Design, Segment Tree, Prefix Sum, Ordered Set
+- [ ] **[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)** — EASY | 3 companies | freq 28.3 | Stack, Tree, Depth-First Search, Binary Tree
+- [ ] **[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)** — EASY | 3 companies | freq 28.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)** — EASY | 3 companies | freq 26.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)** — HARD | 3 companies | freq 26.5 | Binary Search, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Design
+- [ ] **[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable)** — MEDIUM | 3 companies | freq 24.5 | Array, Design, Binary Indexed Tree, Segment Tree, Matrix
+- [ ] **[Number of Good Paths](https://leetcode.com/problems/number-of-good-paths)** — HARD | 3 companies | freq 24.5 | Array, Hash Table, Tree, Union-Find, Graph Theory, Sorting
+- [ ] **[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)** — EASY | 3 companies | freq 22.0 | Stack, Tree, Depth-First Search, Binary Tree
+- [ ] **[Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital)** — MEDIUM | 3 companies | freq 22.0 | Tree, Depth-First Search, Breadth-First Search, Graph Theory
+- [ ] **[Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i)** — MEDIUM | 3 companies | freq 21.7 | Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum
+- [ ] **[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)** — EASY | 3 companies | freq 21.0 | Tree, Binary Search Tree, Binary Tree
+- [ ] **[Fancy Sequence](https://leetcode.com/problems/fancy-sequence)** — HARD | 3 companies | freq 21.0 | Math, Design, Segment Tree, Number Theory
+- [ ] **[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)** — MEDIUM | 3 companies | freq 18.1 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair)** — HARD | 3 companies | freq 18.1 | Array, Segment Tree, Enumeration, Prefix Sum
+- [ ] **[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children)** — EASY | 3 companies | freq 18.1 | Tree, Binary Tree
+- [ ] **[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)** — MEDIUM | 3 companies | freq 14.7 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)** — EASY | 3 companies | freq 13.6 | Stack, Tree, Depth-First Search
+- [ ] **[Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii)** — MEDIUM | 3 companies | freq 13.6 | Array, Binary Search, Segment Tree, Ordered Set
+- [ ] **[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)** — MEDIUM | 3 companies | freq 13.6 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii)** — HARD | 3 companies | freq 13.6 | Array, Math, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+
+## Tier 5 - Occasional (Asked by 1-2 companies)
+
+- [ ] **[Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions)** — MEDIUM | 2 companies | freq 100.0 | Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Union Find, Graph
+- [ ] **[Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees)** — HARD | 2 companies | freq 100.0 | Tree, Depth-First Search, Graph Theory, Trie
+- [ ] **[Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum)** — HARD | 2 companies | freq 100.0 | Array, Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)** — MEDIUM | 2 companies | freq 100.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)** — EASY | 2 companies | freq 100.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network)** — MEDIUM | 2 companies | freq 100.0 | Array, Tree, Depth-First Search
+- [ ] **[Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i)** — MEDIUM | 2 companies | freq 100.0 | Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii)** — HARD | 2 companies | freq 100.0 | Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Maximum Area Rectangle With Point Constraints I](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i)** — MEDIUM | 2 companies | freq 100.0 | Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration
+- [ ] **[Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii)** — HARD | 2 companies | freq 100.0 | Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting
+- [ ] **[Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries)** — MEDIUM | 2 companies | freq 97.9 | Array, Hash Table, Binary Search, Design, Segment Tree
+- [ ] **[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)** — HARD | 2 companies | freq 97.7 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Split BST](https://leetcode.com/problems/split-bst)** — MEDIUM | 2 companies | freq 93.4 | Tree, Binary Search Tree, Recursion, Binary Tree
+- [ ] **[Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets)** — HARD | 2 companies | freq 91.8 | Array, Dynamic Programming, Binary Indexed Tree, Enumeration, Prefix Sum
+- [ ] **[Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position)** — HARD | 2 companies | freq 91.6 | Array, Binary Search, Binary Indexed Tree
+- [ ] **[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)** — MEDIUM | 2 companies | freq 91.1 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Counting
+- [ ] **[Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements)** — HARD | 2 companies | freq 88.6 | Array, Divide and Conquer, Dynamic Programming, Segment Tree
+- [ ] **[Make Array Empty](https://leetcode.com/problems/make-array-empty)** — HARD | 2 companies | freq 85.4 | Array, Binary Search, Greedy, Binary Indexed Tree, Segment Tree, Sorting, Ordered Set
+- [ ] **[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)** — EASY | 2 companies | freq 84.0 | Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Throne Inheritance](https://leetcode.com/problems/throne-inheritance)** — MEDIUM | 2 companies | freq 83.7 | Hash Table, Tree, Depth-First Search, Design
+- [ ] **[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii)** — MEDIUM | 2 companies | freq 74.3 | Tree, Binary Search Tree, Binary Tree
+- [ ] **[Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)** — HARD | 2 companies | freq 70.6 | Array, Hash Table, Divide and Conquer, Dynamic Programming, Segment Tree, Prefix Sum
+- [ ] **[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down)** — MEDIUM | 2 companies | freq 69.3 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)** — MEDIUM | 2 companies | freq 65.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii)** — HARD | 2 companies | freq 59.9 | Array, Segment Tree, Sweep Line, Ordered Set
+- [ ] **[Falling Squares](https://leetcode.com/problems/falling-squares)** — HARD | 2 companies | freq 50.6 | Array, Segment Tree, Ordered Set
+- [ ] **[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)** — MEDIUM | 2 companies | freq 43.7 | Linked List, Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Doubly-Linked List
+- [ ] **[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest)** — MEDIUM | 2 companies | freq 41.3 | Array, Hash Table, Tree, Depth-First Search, Binary Tree
+- [ ] **[Even Odd Tree](https://leetcode.com/problems/even-odd-tree)** — MEDIUM | 2 companies | freq 37.5 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries)** — HARD | 2 companies | freq 37.4 | Array, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)** — HARD | 2 companies | freq 37.4 | Array, Math, Divide and Conquer, Dynamic Programming, Tree, Union-Find, Binary Search Tree, Memoization, Combinatorics, Binary Tree
+- [ ] **[Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree)** — MEDIUM | 2 companies | freq 36.1 | Tree, Depth-First Search
+- [ ] **[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii)** — MEDIUM | 2 companies | freq 30.4 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)** — MEDIUM | 2 companies | freq 29.9 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)** — EASY | 2 companies | freq 29.9 | Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum)** — MEDIUM | 2 companies | freq 29.3 | Hash Table, Tree, Depth-First Search, Binary Tree
+- [ ] **[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)** — MEDIUM | 2 companies | freq 29.3 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components)** — HARD | 2 companies | freq 27.5 | Tree, Depth-First Search
+- [ ] **[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)** — MEDIUM | 2 companies | freq 26.5 | Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)** — MEDIUM | 2 companies | freq 25.6 | String, Backtracking, Tree, Depth-First Search, Binary Tree
+- [ ] **[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)** — MEDIUM | 2 companies | freq 25.3 | String, Tree, Depth-First Search, Binary Tree
+- [ ] **[Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)** — MEDIUM | 2 companies | freq 25.3 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree)** — HARD | 2 companies | freq 25.3 | Array, Bit Manipulation, Tree, Depth-First Search
+- [ ] **[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string)** — MEDIUM | 2 companies | freq 23.7 | String, Stack, Tree, Depth-First Search, Binary Tree
+- [ ] **[Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii)** — HARD | 2 companies | freq 22.3 | Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum
+- [ ] **[Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree)** — MEDIUM | 2 companies | freq 21.7 | Hash Table, Bit Manipulation, Tree, Depth-First Search
+- [ ] **[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village)** — HARD | 2 companies | freq 21.7 | Union-Find, Graph Theory, Heap (Priority Queue), Minimum Spanning Tree
+- [ ] **[Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)** — EASY | 2 companies | freq 21.0 | Array, Binary Search, Segment Tree, Simulation, Ordered Set
+- [ ] **[Separate Squares II](https://leetcode.com/problems/separate-squares-ii)** — HARD | 2 companies | freq 21.0 | Array, Binary Search, Segment Tree, Sweep Line
+- [ ] **[Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality)** — HARD | 2 companies | freq 21.0 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)** — MEDIUM | 2 companies | freq 21.0 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day)** — HARD | 2 companies | freq 19.6 | Array, Segment Tree, Ordered Set
+- [ ] **[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)** — MEDIUM | 2 companies | freq 19.6 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)** — MEDIUM | 2 companies | freq 19.6 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
+- [ ] **[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)** — EASY | 2 companies | freq 10.5 | Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)** — EASY | 2 companies | freq 10.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Print Binary Tree](https://leetcode.com/problems/print-binary-tree)** — MEDIUM | 2 companies | freq 10.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)** — MEDIUM | 2 companies | freq 10.4 | Tree, Breadth-First Search
+- [ ] **[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree)** — MEDIUM | 2 companies | freq 8.4 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades)** — HARD | 2 companies | freq 8.1 | Binary Search, Greedy, Union-Find, Graph Theory, Minimum Spanning Tree
+- [ ] **[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)** — EASY | 2 companies | freq 7.2 | Stack, Tree, Depth-First Search
+- [ ] **[Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst)** — HARD | 2 companies | freq 7.2 | Array, Hash Table, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors)** — HARD | 2 companies | freq 5.0 | Array, Hash Table, Math, Tree, Depth-First Search, Counting, Number Theory
+- [ ] **[Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii)** — HARD | 2 companies | freq 5.0 | Array, Greedy, Segment Tree, Heap (Priority Queue)
+- [ ] **[Path Sum IV](https://leetcode.com/problems/path-sum-iv)** — MEDIUM | 1 companies | freq 100.0 | Array, Hash Table, Tree, Depth-First Search, Binary Tree
+- [ ] **[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray)** — HARD | 1 companies | freq 100.0 | Array, Binary Search, Design, Binary Indexed Tree, Segment Tree
+- [ ] **[Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports)** — HARD | 1 companies | freq 100.0 | Array, Dynamic Programming, Segment Tree, Queue, Heap (Priority Queue), Prefix Sum, Monotonic Queue
+- [ ] **[Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree)** — HARD | 1 companies | freq 100.0 | Math, Dynamic Programming, Tree, Binary Tree, Game Theory
+- [ ] **[Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value)** — HARD | 1 companies | freq 100.0 | Array, Math, Tree, Depth-First Search, Enumeration
+- [ ] **[Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update)** — HARD | 1 companies | freq 100.0 | Array, Segment Tree
+- [ ] **[Peaks in Array](https://leetcode.com/problems/peaks-in-array)** — HARD | 1 companies | freq 100.0 | Array, Binary Indexed Tree, Segment Tree
+- [ ] **[Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals)** — HARD | 1 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Sorting
+- [ ] **[Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree)** — HARD | 1 companies | freq 97.7 | Array, Tree, Binary Tree
+- [ ] **[Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)** — HARD | 1 companies | freq 95.5 | Array, Binary Search, Bit Manipulation, Segment Tree
+- [ ] **[Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii)** — HARD | 1 companies | freq 95.5 | Array, Binary Indexed Tree, Segment Tree, Simulation
+- [ ] **[Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)** — HARD | 1 companies | freq 93.4 | Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+- [ ] **[Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree)** — MEDIUM | 1 companies | freq 93.4 | Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Number of Nodes With Value One](https://leetcode.com/problems/number-of-nodes-with-value-one)** — MEDIUM | 1 companies | freq 86.1 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Smallest Common Region](https://leetcode.com/problems/smallest-common-region)** — MEDIUM | 1 companies | freq 84.9 | Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Find Diameter Endpoints of a Tree](https://leetcode.com/problems/find-diameter-endpoints-of-a-tree)** — MEDIUM | 1 companies | freq 82.4 | Tree, Breadth-First Search, Graph Theory
+- [ ] **[Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony)** — HARD | 1 companies | freq 81.7 | Array, Math, Dynamic Programming, Tree, Depth-First Search, Graph Theory, Topological Sort, Combinatorics
+- [ ] **[Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes)** — HARD | 1 companies | freq 79.1 | Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Memoization
+- [ ] **[Pythagorean Distance Nodes in a Tree](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree)** — MEDIUM | 1 companies | freq 76.9 | Tree, Breadth-First Search
+- [ ] **[Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k)** — HARD | 1 companies | freq 75.3 | Array, Binary Search, Bit Manipulation, Segment Tree
+- [ ] **[Maximum Profitable Triplets With Increasing Prices I](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i)** — MEDIUM | 1 companies | freq 73.9 | Array, Binary Indexed Tree, Segment Tree
+- [ ] **[Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k)** — HARD | 1 companies | freq 72.8 | Array, Dynamic Programming, Segment Tree
+- [ ] **[Maximum Profitable Triplets With Increasing Prices II](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii)** — HARD | 1 companies | freq 71.7 | Array, Binary Indexed Tree, Segment Tree
+- [ ] **[Maximum Subtree of the Same Color](https://leetcode.com/problems/maximum-subtree-of-the-same-color)** — MEDIUM | 1 companies | freq 69.7 | Array, Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Count Valid Paths in a Tree](https://leetcode.com/problems/count-valid-paths-in-a-tree)** — HARD | 1 companies | freq 63.3 | Math, Dynamic Programming, Tree, Depth-First Search, Number Theory
+- [ ] **[Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree)** — HARD | 1 companies | freq 62.6 | Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
+- [ ] **[Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii)** — HARD | 1 companies | freq 60.6 | Array, Math, Segment Tree
+- [ ] **[Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k)** — HARD | 1 companies | freq 60.5 | Array, Binary Search, Bit Manipulation, Segment Tree
+- [ ] **[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)** — EASY | 1 companies | freq 58.8 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Find the Last Marked Nodes in Tree](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree)** — HARD | 1 companies | freq 55.9 | Tree, Depth-First Search
+- [ ] **[Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree)** — HARD | 1 companies | freq 50.6 | Array, Hash Table, Tree, Graph Theory, Simulation
+- [ ] **[Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree)** — MEDIUM | 1 companies | freq 38.8 | Array, Dynamic Programming, Greedy, Tree, Binary Tree
+- [ ] **[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)** — MEDIUM | 1 companies | freq 34.1 | Math, Tree, Binary Tree
+- [ ] **[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)** — MEDIUM | 1 companies | freq 32.4 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point)** — MEDIUM | 1 companies | freq 31.5 | Array, Hash Table, Binary Search, Binary Indexed Tree, Sorting
+- [ ] **[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)** — MEDIUM | 1 companies | freq 30.4 | Array, Math, Stack, Tree, Design, Binary Tree
+- [ ] **[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)** — MEDIUM | 1 companies | freq 29.3 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts)** — MEDIUM | 1 companies | freq 26.7 | Two Pointers, Binary Search, Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii)** — HARD | 1 companies | freq 26.5 | Array, Divide and Conquer, Dynamic Programming, Binary Indexed Tree, Segment Tree, Queue, Monotonic Queue
+- [ ] **[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)** — MEDIUM | 1 companies | freq 25.3 | Union-Find, Graph Theory, Heap (Priority Queue), Minimum Spanning Tree
+- [ ] **[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)** — MEDIUM | 1 companies | freq 25.3 | Tree, Depth-First Search, Binary Tree
+- [ ] **[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)** — MEDIUM | 1 companies | freq 25.3 | Tree, Depth-First Search, Binary Search Tree, Sorting, Binary Tree
+- [ ] **[Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes)** — HARD | 1 companies | freq 25.3 | Dynamic Programming, Tree, Depth-First Search, Sorting, Heap (Priority Queue)
+- [ ] **[Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations)** — HARD | 1 companies | freq 24.5 | Array, Stack, Segment Tree, Queue, Sliding Window, Monotonic Stack, Monotonic Queue
+- [ ] **[Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition)** — MEDIUM | 1 companies | freq 23.7 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree)** — MEDIUM | 1 companies | freq 23.7 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)** — MEDIUM | 1 companies | freq 23.7 | Array, Binary Indexed Tree, Simulation
+- [ ] **[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)** — MEDIUM | 1 companies | freq 23.7 | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree)** — MEDIUM | 1 companies | freq 23.7 | Hash Table, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)** — HARD | 1 companies | freq 23.7 | String, Stack, Tree, Binary Tree
+- [ ] **[Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices)** — HARD | 1 companies | freq 23.7 | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii)** — HARD | 1 companies | freq 23.7 | Array, Hash Table, Binary Indexed Tree, Segment Tree
+- [ ] **[Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum)** — HARD | 1 companies | freq 23.7 | Array, Binary Search, Dynamic Programming, Binary Indexed Tree, Segment Tree
+- [ ] **[Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array)** — HARD | 1 companies | freq 23.7 | Array, Math, Binary Search, Greedy, Segment Tree, Number Theory
+- [ ] **[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)** — MEDIUM | 1 companies | freq 23.4 | String, Stack, Tree, Binary Tree
+- [ ] **[Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree)** — MEDIUM | 1 companies | freq 23.4 | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+- [ ] **[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree)** — EASY | 1 companies | freq 23.4 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes)** — HARD | 1 companies | freq 23.4 | Array, Hash Table, String, Tree, Depth-First Search, Hash Function
+- [ ] **[My Calendar III](https://leetcode.com/problems/my-calendar-iii)** — HARD | 1 companies | freq 22.3 | Binary Search, Design, Segment Tree, Prefix Sum, Ordered Set
+- [ ] **[K Empty Slots](https://leetcode.com/problems/k-empty-slots)** — HARD | 1 companies | freq 21.0 | Array, Binary Indexed Tree, Segment Tree, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue
+- [ ] **[Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix)** — MEDIUM | 1 companies | freq 21.0 | Hash Table, Binary Search, Union-Find, Design, Binary Indexed Tree, Segment Tree, Heap (Priority Queue), Ordered Set
+- [ ] **[Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups)** — HARD | 1 companies | freq 20.2 | Array, Tree, Depth-First Search
+- [ ] **[Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros)** — MEDIUM | 1 companies | freq 19.6 | Array, Hash Table, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set
+- [ ] **[Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)** — HARD | 1 companies | freq 19.6 | Tree, Depth-First Search
+- [ ] **[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)** — MEDIUM | 1 companies | freq 19.6 | Tree, Breadth-First Search, Binary Tree
+- [ ] **[Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)** — MEDIUM | 1 companies | freq 19.6 | Hash Table, Tree, Depth-First Search, Binary Tree, Counting
+- [ ] **[Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree)** — MEDIUM | 1 companies | freq 19.6 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)** — MEDIUM | 1 companies | freq 19.6 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii)** — HARD | 1 companies | freq 19.6 | Depth-First Search, Union-Find, Graph Theory, Design, Sorting, Heap (Priority Queue), Minimum Spanning Tree
+- [ ] **[Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes)** — HARD | 1 companies | freq 19.6 | Array, Math, Tree, Depth-First Search, Number Theory
+- [ ] **[Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups)** — HARD | 1 companies | freq 19.6 | Binary Search, Design, Binary Indexed Tree, Segment Tree
+- [ ] **[Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result)** — HARD | 1 companies | freq 19.6 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
+- [ ] **[Extract Kth Character From The Rope Tree](https://leetcode.com/problems/extract-kth-character-from-the-rope-tree)** — EASY | 1 companies | freq 19.6 | Tree, Depth-First Search, Binary Tree
+- [ ] **[Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree)** — MEDIUM | 1 companies | freq 19.6 | Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array)** — HARD | 1 companies | freq 19.6 | Array, Binary Search, Dynamic Programming, Bit Manipulation, Segment Tree, Queue
+- [ ] **[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds)** — HARD | 1 companies | freq 19.6 | Tree, Depth-First Search, Breadth-First Search, Graph Theory
+- [ ] **[Minimum Increments to Equalize Leaf Paths](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths)** — MEDIUM | 1 companies | freq 16.5 | Array, Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Power Update After K-th Largest Insertion I](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-i)** — MEDIUM | 1 companies | freq 16.5 | Array, Hash Table, Math, Segment Tree, Sorting, Heap (Priority Queue)
+- [ ] **[Find Weighted Median Node in Tree](https://leetcode.com/problems/find-weighted-median-node-in-tree)** — HARD | 1 companies | freq 8.1 | Array, Binary Search, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+- [ ] **[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)** — MEDIUM | 1 companies | freq 7.2 | Hash Table, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i)** — MEDIUM | 1 companies | freq 7.2 | Math, Tree, Depth-First Search
+- [ ] **[K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree)** — MEDIUM | 1 companies | freq 5.5 | Tree, Depth-First Search, Sorting, Binary Tree
+- [ ] **[Longest Special Path II](https://leetcode.com/problems/longest-special-path-ii)** — HARD | 1 companies | freq 5.5 | Array, Hash Table, Tree, Depth-First Search, Prefix Sum
+- [ ] **[Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts)** — HARD | 1 companies | freq 5.5 | Array, Dynamic Programming, Tree, Depth-First Search
+- [ ] **[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)** — MEDIUM | 1 companies | freq 5.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
+- [ ] **[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)** — EASY | 1 companies | freq 5.0 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [ ] **[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes)** — MEDIUM | 1 companies | freq 5.0 | Tree, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Binary Tree
+- [ ] **[Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree)** — HARD | 1 companies | freq 5.0 | Array, Tree, Depth-First Search, Breadth-First Search
+- [ ] **[Sum of Beautiful Subsequences](https://leetcode.com/problems/sum-of-beautiful-subsequences)** — HARD | 1 companies | freq 5.0 | Array, Math, Binary Indexed Tree, Number Theory
+- [ ] **[Maximize Count of Distinct Primes After Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split)** — HARD | 1 companies | freq 5.0 | Array, Hash Table, Math, Segment Tree, Number Theory, Ordered Set
+- [ ] **[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)** — MEDIUM | 1 companies | freq 5.0 | Array, Divide and Conquer, Stack, Tree, Monotonic Stack, Binary Tree
+- [ ] **[Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i)** — EASY | 1 companies | freq 5.0 | Array, Hash Table, Segment Tree
+- [ ] **[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i)** — MEDIUM | 1 companies | freq 5.0 | Array, Hash Table, Divide and Conquer, Segment Tree, Merge Sort, Counting, Prefix Sum
