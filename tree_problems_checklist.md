@@ -23,11 +23,11 @@ Aggregated from LeetCode company-wise problem lists (all 470 company folders). R
 - [ ] **[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)** — MEDIUM | 16 companies | freq 100.0 | Stack, Tree, Depth-First Search, Design, Queue, Iterator
 - [x] **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Search Tree, Binary Tree
 - [ ] **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)** — MEDIUM | 16 companies | freq 89.5 | Tree, Depth-First Search, Binary Tree
-- [ ] **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)** — MEDIUM | 14 companies | freq 89.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [x] **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)** — MEDIUM | 14 companies | freq 89.5 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - [ ] **[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)** — HARD | 12 companies | freq 100.0 | Dynamic Programming, Tree, Depth-First Search, Binary Tree
 - [ ] **[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)** — HARD | 12 companies | freq 97.3 | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set
 - [ ] **[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)** — HARD | 12 companies | freq 95.9 | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree
-- [ ] **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)** — EASY | 12 companies | freq 77.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+- [x] **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)** — EASY | 12 companies | freq 77.2 | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ## Tier 2 - High Priority (Asked by 8-11 companies)
 
