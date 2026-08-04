@@ -4,7 +4,7 @@ Total unique questions: **3250**
 
 - [ ] **Two Sum** — 115 companies — EASY — [Link](https://leetcode.com/problems/two-sum)
 - [ ] **LRU Cache** — 107 companies — MEDIUM — [Link](https://leetcode.com/problems/lru-cache)
-- [x] **Longest Substring Without Repeating Characters** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [ ] **Longest Substring Without Repeating Characters** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [ ] **Merge Intervals** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/merge-intervals)
 - [ ] **Valid Parentheses** — 95 companies — EASY — [Link](https://leetcode.com/problems/valid-parentheses)
 - [ ] **Best Time to Buy and Sell Stock** — 85 companies — EASY — [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
