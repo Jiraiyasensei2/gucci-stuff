@@ -2,11 +2,11 @@
 
 Total unique questions: **3250**
 
-- [ ] **Two Sum** — 115 companies — EASY — [Link](https://leetcode.com/problems/two-sum)
-- [ ] **LRU Cache** — 107 companies — MEDIUM — [Link](https://leetcode.com/problems/lru-cache)
-- [ ] **Longest Substring Without Repeating Characters** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- [ ] **Merge Intervals** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/merge-intervals)
-- [ ] **Valid Parentheses** — 95 companies — EASY — [Link](https://leetcode.com/problems/valid-parentheses)
+- [x] **Two Sum** — 115 companies — EASY — [Link](https://leetcode.com/problems/two-sum)
+- [x] **LRU Cache** — 107 companies — MEDIUM — [Link](https://leetcode.com/problems/lru-cache)
+- [x] **Longest Substring Without Repeating Characters** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [x] **Merge Intervals** — 97 companies — MEDIUM — [Link](https://leetcode.com/problems/merge-intervals)
+- [x] **Valid Parentheses** — 95 companies — EASY — [Link](https://leetcode.com/problems/valid-parentheses)
 - [ ] **Best Time to Buy and Sell Stock** — 85 companies — EASY — [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [ ] **Group Anagrams** — 79 companies — MEDIUM — [Link](https://leetcode.com/problems/group-anagrams)
 - [ ] **Number of Islands** — 78 companies — MEDIUM — [Link](https://leetcode.com/problems/number-of-islands)
