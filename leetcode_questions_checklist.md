@@ -13,7 +13,7 @@ Total unique questions: **3250**
 - [d] **Trapping Rain Water** — 73 companies — HARD — [Link](https://leetcode.com/problems/trapping-rain-water)
 - [d] **Longest Palindromic Substring** — 72 companies — MEDIUM — [Link](https://leetcode.com/problems/longest-palindromic-substring)
 - [d] **Maximum Subarray** — 60 companies — MEDIUM — [Link](https://leetcode.com/problems/maximum-subarray)
-- [ ] **Longest Common Prefix** — 54 companies — EASY — [Link](https://leetcode.com/problems/longest-common-prefix)
+- [x] **Longest Common Prefix** — 54 companies — EASY — [Link](https://leetcode.com/problems/longest-common-prefix)
 - [ ] **3Sum** — 53 companies — MEDIUM — [Link](https://leetcode.com/problems/3sum)
 - [ ] **Container With Most Water** — 52 companies — MEDIUM — [Link](https://leetcode.com/problems/container-with-most-water)
 - [ ] **Median of Two Sorted Arrays** — 50 companies — HARD — [Link](https://leetcode.com/problems/median-of-two-sorted-arrays)
