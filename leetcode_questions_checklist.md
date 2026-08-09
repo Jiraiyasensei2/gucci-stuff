@@ -20,7 +20,7 @@ Total unique questions: **3250**
 - [x] **Top K Frequent Elements** — 50 companies — MEDIUM — [Link](https://leetcode.com/problems/top-k-frequent-elements)
 - [ ] **Spiral Matrix** — 47 companies — MEDIUM — [Link](https://leetcode.com/problems/spiral-matrix)
 - [x] **Rotting Oranges** — 46 companies — MEDIUM — [Link](https://leetcode.com/problems/rotting-oranges)
-- [ ] **Search in Rotated Sorted Array** — 46 companies — MEDIUM — [Link](https://leetcode.com/problems/search-in-rotated-sorted-array)
+- [d] **Search in Rotated Sorted Array** — 46 companies — MEDIUM — [Link](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] **Sliding Window Maximum** — 46 companies — HARD — [Link](https://leetcode.com/problems/sliding-window-maximum)
 - [ ] **Merge k Sorted Lists** — 45 companies — HARD — [Link](https://leetcode.com/problems/merge-k-sorted-lists)
 - [ ] **Generate Parentheses** — 41 companies — MEDIUM — [Link](https://leetcode.com/problems/generate-parentheses)
