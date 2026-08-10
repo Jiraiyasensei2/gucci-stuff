@@ -24,7 +24,7 @@ Total unique questions: **3250**
 - [d] **Sliding Window Maximum** — 46 companies — HARD — [Link](https://leetcode.com/problems/sliding-window-maximum)
 - [ ] **Merge k Sorted Lists** — 45 companies — HARD — [Link](https://leetcode.com/problems/merge-k-sorted-lists)
 - [x] **Generate Parentheses** — 41 companies — MEDIUM — [Link](https://leetcode.com/problems/generate-parentheses)
-- [ ] **Kth Largest Element in an Array** — 40 companies — MEDIUM — [Link](https://leetcode.com/problems/kth-largest-element-in-an-array)
+- [oa] **Kth Largest Element in an Array** — 40 companies — MEDIUM — [Link](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [ ] **Merge Two Sorted Lists** — 39 companies — EASY — [Link](https://leetcode.com/problems/merge-two-sorted-lists)
 - [ ] **Product of Array Except Self** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/product-of-array-except-self)
 - [ ] **Subarray Sum Equals K** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/subarray-sum-equals-k)
