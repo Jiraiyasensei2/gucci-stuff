@@ -30,7 +30,7 @@ Total unique questions: **3250**
 - [d] **Subarray Sum Equals K** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/subarray-sum-equals-k)
 - [again] **Course Schedule** — 38 companies — MEDIUM — [Link](https://leetcode.com/problems/course-schedule)
 - [x] **Coin Change** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/coin-change)
-- [ ] **House Robber** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/house-robber)
+- [x] **House Robber** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/house-robber)
 - [ ] **Insert Delete GetRandom O(1)** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - [ ] **Meeting Rooms II** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/meeting-rooms-ii)
 - [ ] **Merge Sorted Array** — 37 companies — EASY — [Link](https://leetcode.com/problems/merge-sorted-array)
