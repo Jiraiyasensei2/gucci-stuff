@@ -27,7 +27,7 @@ Total unique questions: **3250**
 - [oa] **Kth Largest Element in an Array** — 40 companies — MEDIUM — [Link](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [x] **Merge Two Sorted Lists** — 39 companies — EASY — [Link](https://leetcode.com/problems/merge-two-sorted-lists)
 - [x] **Product of Array Except Self** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/product-of-array-except-self)
-- [ ] **Subarray Sum Equals K** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/subarray-sum-equals-k)
+- [d] **Subarray Sum Equals K** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/subarray-sum-equals-k)
 - [ ] **Course Schedule** — 38 companies — MEDIUM — [Link](https://leetcode.com/problems/course-schedule)
 - [ ] **Coin Change** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/coin-change)
 - [ ] **House Robber** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/house-robber)
