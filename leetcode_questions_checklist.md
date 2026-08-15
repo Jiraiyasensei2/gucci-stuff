@@ -33,7 +33,7 @@ Total unique questions: **3250**
 - [x] **House Robber** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/house-robber)
 - [x] **Insert Delete GetRandom O(1)** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/insert-delete-getrandom-o1)
 - [again] **Meeting Rooms II** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/meeting-rooms-ii)
-- [ ] **Merge Sorted Array** — 37 companies — EASY — [Link](https://leetcode.com/problems/merge-sorted-array)
+- [d] **Merge Sorted Array** — 37 companies — EASY — [Link](https://leetcode.com/problems/merge-sorted-array)
 - [ ] **Text Justification** — 37 companies — HARD — [Link](https://leetcode.com/problems/text-justification)
 - [ ] **Climbing Stairs** — 36 companies — EASY — [Link](https://leetcode.com/problems/climbing-stairs)
 - [ ] **Decode String** — 36 companies — MEDIUM — [Link](https://leetcode.com/problems/decode-string)
