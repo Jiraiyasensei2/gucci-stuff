@@ -28,7 +28,7 @@ Total unique questions: **3250**
 - [x] **Merge Two Sorted Lists** — 39 companies — EASY — [Link](https://leetcode.com/problems/merge-two-sorted-lists)
 - [x] **Product of Array Except Self** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/product-of-array-except-self)
 - [d] **Subarray Sum Equals K** — 39 companies — MEDIUM — [Link](https://leetcode.com/problems/subarray-sum-equals-k)
-- [ ] **Course Schedule** — 38 companies — MEDIUM — [Link](https://leetcode.com/problems/course-schedule)
+- [again] **Course Schedule** — 38 companies — MEDIUM — [Link](https://leetcode.com/problems/course-schedule)
 - [ ] **Coin Change** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/coin-change)
 - [ ] **House Robber** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/house-robber)
 - [ ] **Insert Delete GetRandom O(1)** — 37 companies — MEDIUM — [Link](https://leetcode.com/problems/insert-delete-getrandom-o1)
